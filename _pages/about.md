@@ -58,8 +58,8 @@ I am a research engineer at NuviLab.
 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.07 - 2023.08*, Graduate School of Information, Yonsei University. Advised by Ha Young Kim.
+- *2012.03 - 2019.02*, Hankuk University of Foreign Studies. 
 
 # 💬 Academic Services
 ### Reviewer
@@ -67,4 +67,5 @@ I am a research engineer at NuviLab.
 - IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS): 2023
 
 # 💻 Work Experiences
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2022.08 - Current*, [NuviLab]()
+- *2019.01 - 2021.02*, [SK C&C]()
