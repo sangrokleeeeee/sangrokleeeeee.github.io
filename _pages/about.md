@@ -17,6 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 I am a research engineer at NuviLab.
+I received M.S. degrees from the Yonsei University, where I was advised by Ha Young Kim.
+
+I am broadly interested in machine learning, computer vision and multi modal models. Specifically, my research interests include
+
+Object Recognition
+Domain Generalization and Adaptation
+Vision and Language(multi-modal) System
+but not limited to.
 
 
 
