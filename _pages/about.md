@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am a research engineer at NuviLab.
+I am a research engineer.
 I received M.S. degrees from the Yonsei University, where I was advised by Ha Young Kim.
 I am broadly interested in machine learning, computer vision and multi modal models. Specifically, my research interests include
 
@@ -75,6 +75,9 @@ but not limited to.
 - IEEE / CVF Conference on Computer Vision and Pattern Recognition (CVPR): 2023
 - IEEE International Conference on Advanced Video and Signal-based Surveillance (AVSS): 2023
 
+# Pet Project
+- *2015 - Current*, [HUFSPOON](http://hfspn.co/) (Full-Stack Software Engineer)
+
 # 💻 Work Experiences
-- *2022.08 - Current*, [NuviLab]()
+- *2022.08 - 2024.01*, [NuviLab]()
 - *2019.01 - 2021.02*, [SK C&C]()
